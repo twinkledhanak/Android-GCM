@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "346325067097",
+    "project_id": "gcm-3-0-142907"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346325067097:android:f071c65b5d4a2add",
+        "android_client_info": {
+          "package_name": "com.example.twinkledhanak.gcm30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJqpU3gj5DpIs0Q7wKuZHOPpKL4zdpwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
